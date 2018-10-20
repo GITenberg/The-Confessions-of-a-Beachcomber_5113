@@ -1,5 +1,5 @@
 _repo: The-Confessions-of-a-Beachcomber_5113
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Dunk Island (Qld.)'
 - !lcsh 'Natural history -- Queensland'
 - !lcc 'DU'
+- GITenberg
 title: The Confessions of a Beachcomber
 url: http://www.gutenberg.org/ebooks/5113
